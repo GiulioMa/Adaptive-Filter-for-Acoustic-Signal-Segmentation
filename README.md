@@ -5,10 +5,7 @@ In the realm of modern signal processing, the application of gradient-based opti
 
 ## Installation
 
-1. Clone the repository:
-```
-git clone [repository-url]
-```
+1. Clone the repository.
 2. Install the required libraries and dependencies:
 ```
 pip install -r requirements.txt
