@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10044151.svg)](https://doi.org/10.5281/zenodo.10044151)
+
 # Adaptive Filter for Acoustic Signal Segmentation
 
 In the realm of modern signal processing, the application of gradient-based optimization frameworks offers groundbreaking solutions to complex challenges. This repository presents our innovative adaptive filter designed for segmenting acoustic signals. The work here is grounded in our research published in Nature Communications, titled "Harmonizing Sound and Light: X-Ray Imaging Unveils Acoustic Signatures of Stochastic Inter-Regime Instabilities during Laser Melting".
