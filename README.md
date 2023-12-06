@@ -35,7 +35,9 @@ Our adaptive filter achieved high accuracy in segmenting acoustic signals. Detai
 
 ## Paper Accessibility
 
-The paper accompanying this research is accessible via the following DOI: [https://doi.org/10.21203/rs.3.rs-2607808/v1](https://doi.org/10.21203/rs.3.rs-2607808/v1). Please refer to this link for the complete description and related materials.
+The paper accompanying this research is accessible via the following DOI: [https://doi.org/10.1038/s41467-023-43371-3](https://doi.org/10.1038/s41467-023-43371-3
+
+). Please refer to this link for the complete description and related materials.
 
 ## Contribution
 
